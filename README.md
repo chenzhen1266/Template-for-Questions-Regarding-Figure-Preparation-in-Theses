@@ -8,7 +8,6 @@ What is the function of the code below? Describe the workflow implemented by thi
 
 Diagram the data processing flow of the code using a flowchart.
 
-Translated with DeepL.com (free version)
 
 
 
